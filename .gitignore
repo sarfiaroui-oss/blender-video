@@ -1,0 +1,18 @@
+# Blender backups and autosaves
+*.blend1
+*.blend2
+*.blend@
+*.blend.tmp
+
+# Render intermediates / output
+renders/*
+!renders/.gitkeep
+audio/*.wav
+audio/*.mp3
+audio/*.onnx
+
+# Temporary and cached files
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
