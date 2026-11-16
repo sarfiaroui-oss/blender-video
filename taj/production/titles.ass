@@ -1,0 +1,43 @@
+[Script Info]
+Title: Taj Mahal — A Sunset Conversation
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: A,DejaVu Sans,23,&H00D8EDF7,&H000000FF,&H00181921,&H80000000,0,0,0,0,100,100,0,0,1,1.5,1,2,80,80,65,1
+Style: C,DejaVu Sans,23,&H00F6F2E9,&H000000FF,&H00181921,&H80000000,0,0,0,0,100,100,0,0,1,1.5,1,2,80,80,65,1
+Style: Title,DejaVu Sans,65,&H00EFF5FA,&H000000FF,&H50181921,&H80000000,0,0,0,0,100,100,6,0,1,1.1,1,5,80,80,40,1
+Style: Small,DejaVu Sans,15,&H00D8EDF7,&H000000FF,&H50181921,&H80000000,0,0,0,0,100,100,3,0,1,1,1,5,80,80,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.50,0:00:04.10,Title,,0,0,0,,{\pos(640,295)\fad(700,700)}TAJ MAHAL
+Dialogue: 0,0:00:00.90,0:00:04.10,Small,,0,0,0,,{\pos(640,355)\fad(700,700)}A SUNSET CONVERSATION
+Dialogue: 0,0:00:04.50,0:00:11.83,A,,0,0,0,,{\fad(80,120)}This little model looks magical in the sunset. Is the\NTaj Mahal really a palace?
+Dialogue: 0,0:00:12.48,0:00:19.08,C,,0,0,0,,{\fad(80,120)}It looks like one, but it is a mausoleum in Agra,\Nbeside the Yamuna River. There is a remarkable
+Dialogue: 0,0:00:19.08,0:00:20.12,C,,0,0,0,,{\fad(80,120)}story behind it.
+Dialogue: 0,0:00:20.77,0:00:27.94,A,,0,0,0,,{\fad(80,120)}Tell me! I know people call it a monument to love. Who\Nhad it built?
+Dialogue: 0,0:00:28.59,0:00:35.09,C,,0,0,0,,{\fad(80,120)}The Mughal emperor Shah Jahan commissioned it in memory\Nof his wife, Mumtaz Mahal. Thousands of
+Dialogue: 0,0:00:35.09,0:00:37.12,C,,0,0,0,,{\fad(80,120)}skilled artisans helped create it.
+Dialogue: 0,0:00:37.77,0:00:44.57,A,,0,0,0,,{\fad(80,120)}That explains the feeling. But what makes the building\Nso special when you look closely?
+Dialogue: 0,0:00:45.22,0:00:51.14,C,,0,0,0,,{\fad(80,120)}Start with the white marble, the great dome, and the\Nbalanced arrangement of the minarets. Then
+Dialogue: 0,0:00:51.14,0:00:53.37,C,,0,0,0,,{\fad(80,120)}notice the delicate floral stone inlay.
+Dialogue: 0,0:00:54.02,0:01:01.88,A,,0,0,0,,{\fad(80,120)}Flowers made from stone? We are surrounded by real\Ndaisies, and they captured that same beauty in
+Dialogue: 0,0:01:01.88,0:01:02.34,A,,0,0,0,,{\fad(80,120)}marble.
+Dialogue: 0,0:01:02.99,0:01:09.32,C,,0,0,0,,{\fad(80,120)}Exactly. Craftspeople fitted carefully cut colored\Nstones into the surface. The patterns reward a
+Dialogue: 0,0:01:09.32,0:01:10.23,C,,0,0,0,,{\fad(80,120)}closer look.
+Dialogue: 0,0:01:10.88,0:01:15.41,A,,0,0,0,,{\fad(80,120)}It must have taken forever. When did they finish?
+Dialogue: 0,0:01:16.06,0:01:22.72,C,,0,0,0,,{\fad(80,120)}The main mausoleum was completed in sixteen forty-\Neight. Other parts of the complex were finished by
+Dialogue: 0,0:01:22.72,0:01:23.55,C,,0,0,0,,{\fad(80,120)}sixteen fifty-three.
+Dialogue: 0,0:01:24.20,0:01:28.24,A,,0,0,0,,{\fad(80,120)}So the gardens matter just as much as the dome?
+Dialogue: 0,0:01:28.89,0:01:35.00,C,,0,0,0,,{\fad(80,120)}They shape the whole experience: ordered paths, water,\Ngreenery, and that first view of the
+Dialogue: 0,0:01:35.00,0:01:38.66,C,,0,0,0,,{\fad(80,120)}monument. The setting makes the architecture even more\Ngraceful.
+Dialogue: 0,0:01:39.31,0:01:46.38,A,,0,0,0,,{\fad(80,120)}Now I want to visit Agra, take my time, and look for\Nall those tiny flowers.
+Dialogue: 0,0:01:47.03,0:01:53.12,C,,0,0,0,,{\fad(80,120)}And treat the place with care. Great monuments are\Nshared memories. The best journey leaves them
+Dialogue: 0,0:01:53.12,0:01:54.26,C,,0,0,0,,{\fad(80,120)}beautiful for everyone.
+Dialogue: 0,0:01:55.20,0:01:59.40,Small,,0,0,0,,{\pos(640,316)\fad(700,1200)}A STORY WORTH PRESERVING
+Dialogue: 0,0:01:56.00,0:01:59.40,Small,,0,0,0,,{\pos(640,358)\fad(700,1200)}BLENDER ANIMATION  /  ONNX VOICES

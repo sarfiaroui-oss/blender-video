@@ -1,0 +1,7 @@
+Historical facts consulted:
+https://whc.unesco.org/en/list/252/
+https://www.tajmahal.gov.in/creation-history-of-taj-mahal.aspx
+
+Voices: Piper ONNX, en_US-amy-medium and en_US-lessac-medium.
+Model source: https://huggingface.co/rhasspy/piper-voices
+Model cards are included in the editable project.

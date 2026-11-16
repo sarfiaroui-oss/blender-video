@@ -1,0 +1,114 @@
+[
+  {
+    "speaker": "A",
+    "text": "This little model looks magical in the sunset. Is the Taj Mahal really a palace?",
+    "raw_duration": 6.489977324263038,
+    "start": 4.5,
+    "end": 11.83482993197279,
+    "voice_model": "en_US-amy-medium"
+  },
+  {
+    "speaker": "C",
+    "text": "It looks like one, but it is a mausoleum in Agra, beside the Yamuna River. There is a remarkable story behind it.",
+    "raw_duration": 6.757006802721088,
+    "start": 12.48482993197279,
+    "end": 20.123242630385487,
+    "voice_model": "en_US-lessac-medium"
+  },
+  {
+    "speaker": "A",
+    "text": "Tell me! I know people call it a monument to love. Who had it built?",
+    "raw_duration": 6.327437641723356,
+    "start": 20.773242630385486,
+    "end": 27.936984126984125,
+    "voice_model": "en_US-amy-medium"
+  },
+  {
+    "speaker": "C",
+    "text": "The Mughal emperor Shah Jahan commissioned it in memory of his wife, Mumtaz Mahal. Thousands of skilled artisans helped create it.",
+    "raw_duration": 7.546485260770975,
+    "start": 28.586984126984124,
+    "end": 37.117120181405895,
+    "voice_model": "en_US-lessac-medium"
+  },
+  {
+    "speaker": "A",
+    "text": "That explains the feeling. But what makes the building so special when you look closely?",
+    "raw_duration": 6.013968253968254,
+    "start": 37.76712018140589,
+    "end": 44.568662131519275,
+    "voice_model": "en_US-amy-medium"
+  },
+  {
+    "speaker": "C",
+    "text": "Start with the white marble, the great dome, and the balanced arrangement of the minarets. Then notice the delicate floral stone inlay.",
+    "raw_duration": 7.209795918367347,
+    "start": 45.218662131519274,
+    "end": 53.36532879818594,
+    "voice_model": "en_US-lessac-medium"
+  },
+  {
+    "speaker": "A",
+    "text": "Flowers made from stone? We are surrounded by real daisies, and they captured that same beauty in marble.",
+    "raw_duration": 7.360725623582766,
+    "start": 54.01532879818594,
+    "end": 62.33800453514739,
+    "voice_model": "en_US-amy-medium"
+  },
+  {
+    "speaker": "C",
+    "text": "Exactly. Craftspeople fitted carefully cut colored stones into the surface. The patterns reward a closer look.",
+    "raw_duration": 6.408707482993197,
+    "start": 62.98800453514739,
+    "end": 70.22963718820861,
+    "voice_model": "en_US-lessac-medium"
+  },
+  {
+    "speaker": "A",
+    "text": "It must have taken forever. When did they finish?",
+    "raw_duration": 4.005442176870749,
+    "start": 70.87963718820862,
+    "end": 75.40557823129252,
+    "voice_model": "en_US-amy-medium"
+  },
+  {
+    "speaker": "C",
+    "text": "The main mausoleum was completed in sixteen forty-eight. Other parts of the complex were finished by sixteen fifty-three.",
+    "raw_duration": 6.629297052154195,
+    "start": 76.05557823129253,
+    "end": 83.548231292517,
+    "voice_model": "en_US-lessac-medium"
+  },
+  {
+    "speaker": "A",
+    "text": "So the gardens matter just as much as the dome?",
+    "raw_duration": 3.575873015873016,
+    "start": 84.19823129251701,
+    "end": 88.24317460317461,
+    "voice_model": "en_US-amy-medium"
+  },
+  {
+    "speaker": "C",
+    "text": "They shape the whole experience: ordered paths, water, greenery, and that first view of the monument. The setting makes the architecture even more graceful.",
+    "raw_duration": 8.6378231292517,
+    "start": 88.89317460317461,
+    "end": 98.66278911564626,
+    "voice_model": "en_US-lessac-medium"
+  },
+  {
+    "speaker": "A",
+    "text": "Now I want to visit Agra, take my time, and look for all those tiny flowers.",
+    "raw_duration": 6.246167800453515,
+    "start": 99.31278911564627,
+    "end": 106.3754648526077,
+    "voice_model": "en_US-amy-medium"
+  },
+  {
+    "speaker": "C",
+    "text": "And treat the place with care. Great monuments are shared memories. The best journey leaves them beautiful for everyone.",
+    "raw_duration": 6.397097505668934,
+    "start": 107.02546485260771,
+    "end": 114.26424036281179,
+    "voice_model": "en_US-lessac-medium"
+  }
+]

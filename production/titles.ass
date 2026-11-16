@@ -1,0 +1,30 @@
+[Script Info]
+Title: The Last Signal
+ScriptType: v4.00+
+PlayResX: 1280
+PlayResY: 720
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Title,DejaVu Sans,64,&H00EDF4F8,&H000000FF,&H90090D13,&HA0000000,0,0,0,0,100,100,8,0,1,1,1,5,80,80,40,1
+Style: Kicker,DejaVu Sans,14,&H00A4C3D5,&H000000FF,&H90090D13,&HA0000000,0,0,0,0,100,100,4,0,1,1,1,5,80,80,40,1
+Style: Caption,DejaVu Sans,24,&H00EDF4F8,&H000000FF,&H80090D13,&HA0000000,0,0,0,0,100,100,0.6,0,1,1.2,1,2,100,100,74,1
+Style: Label,DejaVu Sans,16,&H00B6DBE5,&H000000FF,&H80090D13,&HA0000000,0,0,0,0,100,100,2,0,1,1,1,7,64,64,80,1
+Style: End,DejaVu Sans,32,&H00EDF4F8,&H000000FF,&H90090D13,&HA0000000,0,0,0,0,100,100,2,0,1,1,1,5,100,100,40,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.50,0:00:09.80,Kicker,,0,0,0,,{\pos(640,282)\fad(1000,1200)}A SMALL VOYAGER. AN IMPOSSIBLE ECHO.
+Dialogue: 0,0:00:02.00,0:00:10.00,Title,,0,0,0,,{\pos(640,352)\fad(1100,1300)}THE LAST SIGNAL
+Dialogue: 0,0:00:03.00,0:00:09.50,Kicker,,0,0,0,,{\pos(640,415)\fad(900,1000)}A TWO-MINUTE JOURNEY
+Dialogue: 0,0:00:13.50,0:00:19.50,Label,,0,0,0,,{\fad(700,900)}ARI–01\NLONG-RANGE SURVEY
+Dialogue: 0,0:00:25.00,0:00:31.50,Caption,,0,0,0,,{\fad(700,900)}For years, there was only silence.
+Dialogue: 0,0:00:37.50,0:00:44.50,Caption,,0,0,0,,{\fad(700,900)}Then something answered.
+Dialogue: 0,0:00:51.00,0:00:57.50,Caption,,0,0,0,,{\fad(700,900)}A small light can make a choice.
+Dialogue: 0,0:01:02.00,0:01:07.00,Label,,0,0,0,,{\fad(600,900)}SIGNAL FOUND\NCONNECTION ESTABLISHED
+Dialogue: 0,0:01:20.00,0:01:27.00,Caption,,0,0,0,,{\fad(700,900)}And wake a sleeping universe.
+Dialogue: 0,0:01:42.00,0:01:49.00,Caption,,0,0,0,,{\fad(900,1200)}Some signals are meant to be answered.
+Dialogue: 0,0:01:52.00,0:01:59.00,Title,,0,0,0,,{\pos(640,340)\fad(1500,1800)}THE LAST SIGNAL
+Dialogue: 0,0:01:53.00,0:01:59.00,Kicker,,0,0,0,,{\pos(640,402)\fad(1200,1800)}CARRY THE LIGHT FORWARD
